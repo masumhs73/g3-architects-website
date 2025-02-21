@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 body{
-    margin: 0;
+    /* margin: 0; */
 }
-
 * {
     font-family: "Work Sans", serif;
     font-optical-sizing: auto;
@@ -42,7 +41,6 @@ header{
     color: #131313;
     font-size: 2.5rem;
     font-weight: 700;
-    margin: 0;
 }
 
 .nav-item{
@@ -58,22 +56,21 @@ header{
 .navbar{
     justify-content: space-between;
     align-items: center;
-    margin: 20px 100px 100px 100px;
+    /* margin: 20px 100px 100px 100px; */
 }
+
 .navbar, .banner{
     max-width: 1440px;
     margin: 0 auto;
 }
 
-/* banner styles */
-
-.banner-image{
+/* .banner-image{
     width: 1000px;
     height: 500px;
-    /* align-items: center; */
+
 }
 .banner-content{
     max-width: 860px;
     margin: 0 auto;
     text-align: center;
-}
+} */
