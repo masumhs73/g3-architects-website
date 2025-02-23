@@ -153,8 +153,49 @@ main>section {
     margin-bottom: 24px;
 }
 
-/* features wiil enjoy styles */
-
+/* features will enjoy styles */
+.features{
+    margin: 0 150px;
+    gap: 140px;
+}
+#features-section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
+.feature-card{
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    margin-bottom: 10px;
+}
+.feature-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin: 0;
+    font-size: 14px;
+}
+.features-description{
+    font-size: 0.85rem;
+    font-weight: 400;
+    color: #727272;
+    line-height: 1.7;
+    margin-bottom: 0;
+}
+.features img{
+    width: 480px;
+    height: 700px;
+}
+#experience-badge{
+    padding: 45px 42px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-left: -100px;
+    margin-top: -100px;
+}
+#experience-year{
+    font-weight: 700;
+    font-size: 3rem;
+}
 /* some facts styles */
 
 .some-facts {
